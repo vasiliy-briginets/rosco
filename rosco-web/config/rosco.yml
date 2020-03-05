@@ -473,7 +473,6 @@ yandex:
           shortDescription: v16.04
           detailedDescription: Ubuntu Xenial Xerus v16.04
           packageType: deb
-          imageFamily: false
         virtualizationSettings:
           sourceImageFamily: ubuntu-1604-lts
       - baseImage:
@@ -481,7 +480,6 @@ yandex:
           shortDescription: v18.04
           detailedDescription: Ubuntu Bionic Beaver v18.04
           packageType: deb
-          imageFamily: false
         virtualizationSettings:
           sourceImageFamily: ubuntu-1804-lts
     zone: ru-central1-a
